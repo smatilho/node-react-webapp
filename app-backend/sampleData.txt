@@ -1,0 +1,12 @@
+[
+    {
+        "_id": "63c9c5e2c0a471d5aca66f4c",
+        "lotCategory": "Commuter",
+        "lotName": "Hoffman",
+        "lotPermit": "Yellow",
+        "openSpots": 100,
+        "totalSpots": 200,
+        "lastUpdated": "11/7/2022",
+        "__v": 0
+    },
+]
